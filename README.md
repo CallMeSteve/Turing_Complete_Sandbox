@@ -8,3 +8,9 @@ Sandbox will limit programming language versions to Python 3.3 and later
 To run:
 	Write a python program
 	Open terminal and enter: python3 [path to sandbox.py] [path to program]
+
+Examples:
+Providing the current working directory of the terminal contains both Python files, enter the following:
+	python3 sandbox.py power.py
+	python3 sandbox.py combinatorics.py
+	python3 sandbox.py fib.py
